@@ -1,0 +1,11 @@
+B.M.J. Kalpana Balasooriya, Jay Rajapakse, Chaminda Gallage,
+A review of drinking water quality issues in remote and indigenous communities in rich nations with special emphasis on Australia,
+Science of The Total Environment,
+Volume 903,
+2023,
+166559,
+ISSN 0048-9697,
+https://doi.org/10.1016/j.scitotenv.2023.166559.
+(https://www.sciencedirect.com/science/article/pii/S0048969723051847)
+Abstract: This review paper examines the drinking water quality issues in remote and Indigenous communities, with a specific emphasis on Australia. Access to clean and safe drinking water is vital for the well-being of Indigenous communities worldwide, yet numerous challenges hinder their ability to obtain and maintain water security. This review focuses on the drinking water-related issues faced by Indigenous populations in countries such as the United States, Canada, New Zealand, and Australia. In the Australian context, remote and Indigenous communities encounter complex challenges related to water quality, including microbial and chemical contamination, exacerbated by climate change effects. Analysis of water quality trends in Queensland, New South Wales, Western Australia, and the Northern Territory reveals concerns regarding various pollutants with very high concentrations in the source water leading to levels exceeding recommended drinking water limits such as hardness, turbidity, fluoride, iron, and manganese levels after limited treatment facilities available in these communities. Inadequate water quality and quantity contribute to adverse health effects, particularly among Indigenous populations who may resort to sugary beverages. Addressing these challenges requires comprehensive approaches encompassing testing, funding, governance, appropriate and sustainable treatment technologies, and cultural considerations. Collaborative efforts, risk-based approaches, and improved infrastructure are essential to ensure equitable access to clean and safe drinking water for remote and Indigenous communities, ultimately improving health outcomes and promoting social equity.
+Keywords: First nations; Rich countries; Australia; Aboriginal; Outback communities; Unsafe water; Poor health
